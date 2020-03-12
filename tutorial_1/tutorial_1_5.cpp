@@ -164,7 +164,7 @@ int main(int argc, char* argv[]) {
              new BGKdynamics<T,DESCRIPTOR>(parameters.getOmega()) );
 
 //生成一个完全局部的矩形边界条件
-//Create a. entire local rectangular boundary condition.
+//Create an entire local rectangular boundary condition.
     OnLatticeBoundaryCondition2D<T,DESCRIPTOR>*
         boundaryCondition = createLocalBoundaryCondition2D<T,DESCRIPTOR>();
 
