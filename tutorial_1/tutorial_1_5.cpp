@@ -91,7 +91,7 @@ private:
     IncomprFlowParam<T> parameters;
 };
 //以下这四行可以当作模板形式记忆，在随后的大括号里，描绘流域的所有信息
-//Below 4 lines can be remembered as a template, in the subsequent brace writed the whole domain's information.
+//Below 4 lines can be remembered as a template, in the subsequent brace written the whole domain's information.
 void channelSetup (
         MultiBlockLattice2D<T,DESCRIPTOR>& lattice,
         IncomprFlowParam<T> const& parameters,
