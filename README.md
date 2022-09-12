@@ -1,7 +1,6 @@
 ## PalabosCodeExplanation
 Palabos code explanation in Chinese and English version.
-If you find any error of explanation please tell me for correction.
-My email is ahdhfang@hotmail.com
+If you find any error of explanation please let me know for correction.
 
 ## Units in Palabos v.2
 Now it is Chinese & English version.
